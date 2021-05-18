@@ -14,3 +14,4 @@ while i<len(string1):
         result = result+ str(count) +first
     i=i+1
 print(result)
+#heida
